@@ -1,6 +1,7 @@
 footer {
   background-color: #dda0a9;
-  padding: 10px;
+  padding: 15px;
+  margin-top: 25px;
 }
 
 footer h4 {
@@ -30,6 +31,7 @@ header {
   padding: 45px;
   background-image: url(../img/fondoheader.jpg);
   text-align: left;
+  background-size: cover;
 }
 
 header h1 {
@@ -50,5 +52,18 @@ nav .dropdown-menu {
 
 body {
   background-color: lightpink;
+}
+.tarjeta{
+  border: solid rgb(221, 160, 169);
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+.contenedortarjeta{
+  padding: 20px;
+}
+.titulotarjeta{
+  padding: 10px;
+  text-align: center;
 }
 /*# sourceMappingURL=styles.css.map */
